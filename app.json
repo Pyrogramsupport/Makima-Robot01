@@ -17,16 +17,16 @@
    "addons": [
       {
          "options": {
-            "version": "12"
+            "version": "15"
          },
-         "plan": "heroku-postgresql"
+         "plan": "heroku-postgresql:mini"
       }
    ],
    "env": {
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": "5605728947:AAHGZRsBITZF6LY8L4_08pGwvdcMkKpXrCE"
+         "value": "7038466993:AAF5TX7gwoIpidTfWEqr7w2HEH1okTwP8Es"
       },
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
